@@ -23,8 +23,13 @@
 <p> Este punto requiere la utilización de los archivos existentes para crear un GeoDataFrame que servirá para poder crear un gráfico (Mapa Choropleth) </p>
 <p> El gráfico creado puede verse en "Tweets Mundiales.png". Consiste en la cantidad de tweets por país." </p>
 
+<img align="center" src="Tweets Mundiales.png">
+
 #### 3.4.3.py
 <p> Es la resolución de dicho ejercicio, donde se realizan nubes de palabras para Argentina y Estados Unidos. </p>
 <p> Los gráficos creado puede verse en "Nube de palabras para Argentina.png" y "Nube de palabras para United States.png".  </p>
 
-
+<div>
+  <img  width=500 src="Nube de palabras para Argentina.png" style="float:left">
+  <img  width=500 src="Nube de palabras para United States.png" style="float:right">
+</div>
