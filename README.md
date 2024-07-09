@@ -13,6 +13,9 @@
 #### crisis.20190410.json
 <p> El archivo "crisis.20190410.json" es la muestra de datos completa dada en el enunciado. A partir de este se realizan recortes y análisis dando como resultado dos archivos: "tweets.json" y "allTweets.json" cuyo uso se detalla a continuación. </p> 
 
+#### Configuraciones - Aclaraciones.pdf
+<p> Da una buena guia del paso a paso y de las configuraciones necesarias </p>
+
 #### comandos.txt
 <p> Es la resolución de los ejercicios 3.1, 3.2, 3.3 y 3.4, los cuales consisten en querys a correr en MongoSh. Para estos se trabaja con una cantidad reducida de registros a partir de la base de datos "tweets.json" que consiste en los primeros 5000 registros de la base "crisis.20190410.json"</p>
 
