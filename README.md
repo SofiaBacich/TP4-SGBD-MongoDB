@@ -32,7 +32,5 @@
 <p> Es la resolución de dicho ejercicio, donde se realizan nubes de palabras para Argentina y Estados Unidos. </p>
 <p> Los gráficos creado puede verse en "Nube de palabras para Argentina.png" y "Nube de palabras para United States.png".  </p>
 
-<div>
-  <img  width=500 src="Nube de palabras para Argentina.png" style="float:left">
-  <img  width=500 src="Nube de palabras para United States.png" style="float:right">
-</div>
+<img align="center" width=900 src="Nube de palabras para Argentina.png">
+<img align="center" width=900 src="Nube de palabras para United States.png">
